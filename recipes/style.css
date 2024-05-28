@@ -1,5 +1,26 @@
-ul {
-    background-color: darkgreen;
-    
+* {
+   font-family:Verdana, Geneva, Tahoma, sans-serif
 
+}
+
+.header {
+    background-color: rgb(13, 98, 13);
+    text-align: center;
+    color: rgb(13, 168, 202);
+    font-size: 24px;
+
+}
+
+ .recipes-list,
+a  {
+    background-color: beige;
+    text-align: center;
+    color: rgb(13, 168, 202)
+    
+    
+}
+
+ul {
+    list-style-type: none;
+    
 }

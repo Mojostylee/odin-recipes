@@ -1,5 +1,6 @@
 * {
-   font-family:Verdana, Geneva, Tahoma, sans-serif
+    background-color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
 
 }
 
@@ -8,19 +9,29 @@
     text-align: center;
     color: rgb(13, 168, 202);
     font-size: 24px;
+    
 
 }
 
  .recipes-list,
-a  {
-    background-color: beige;
-    text-align: center;
+ a  {
     color: rgb(13, 168, 202)
     
     
 }
 
 ul {
-    list-style-type: none;
     
+   list-style-type: none;
+    
+}
+
+.image {
+    background-color: darkseagreen;
+    text-align: center;
+}
+
+.header p {
+    text-align: left;
+    color: rgb(5, 61, 5)
 }
